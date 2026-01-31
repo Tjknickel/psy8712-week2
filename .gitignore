@@ -4,3 +4,5 @@
 .httr-oauth
 .DS_Store
 .quarto
+# Ignore week2.csv file 
+.week2.csv 
